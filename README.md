@@ -1,5 +1,5 @@
-## Tapsi Template mini project 
-this project is created by arain and copy templeate of tapsi
+## Car Dealing Site project
+This project is created by arian | 
 به انگلیسی در مورد پروژه توضیح میدی و فیچر های که اضافه کردی بهش رو مینویسی 
 
 ##Demo
