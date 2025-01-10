@@ -42,12 +42,12 @@ This project is a feature-rich website for showcasing and managing car sales onl
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/ArianDilfanian/Car-Dealership-Website.git  
+   git clone https://github.com/ArianDilfanian/car-dealing.git  
    ```  
 
 2. Navigate to the project directory:  
    ```bash  
-   cd Car-Dealership-Website  
+   cd car-dealing  
    ```  
 
 3. Open `index.html` in your browser to explore the website.  
